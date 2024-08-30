@@ -1,0 +1,19 @@
+{
+  "name": "ssc_network_app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "vite": "^5.4.2"
+  },
+  "dependencies": {
+    "graphology": "^0.25.4",
+    "sigma": "^2.4.0"
+  }
+}
