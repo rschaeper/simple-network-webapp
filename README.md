@@ -2,8 +2,8 @@
 A sigmaj.js based application for visualising graph networks in the browser.
 Originally developed for a bioinformatics project, this webapplication can be used to display any basic graph network and features the option to search for nodes.
 
-A live version can be found at:
-https://www.bosse-lab.org/herpesclusters/
+The paper can be found here:
+https://www.nature.com/articles/s41467-024-54668-2
 
 The node modules used in this project are
 ```
